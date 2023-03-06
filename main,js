@@ -1,0 +1,5 @@
+import { mergeSort } from "./mergeSort";
+
+const unsorted = [4, 8, 3, 2, 5, 9];
+
+console.log(mergeSort(unsorted));
